@@ -17,4 +17,4 @@ Another strategy I would suggest you adopt, regardless of whether you need help 
 
 If you have not noticed yet, active module dates are posted up above, along with the deadline for the week's homework.
 
-As a gentle reminder, you homework is due by {{ site.data.dates[1][1] }}.
+As a gentle reminder, your homework is due by {{ site.data.dates[1][1] }}.
