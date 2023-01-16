@@ -13,7 +13,7 @@ jotted: false
 </div>
 
 <div id="Quick" class="tabcontent" style="display:block"  markdown="1">
-<p>Quick links, including email links, office hours, and lab hours, are all available from the <a href="https://montana-media-arts.github.io/441-web-tech-Spring2023-course/instructors/">Instructors</a> tab above in the course menubar.</p>
+<p>Quick links, including email links, office hours, and lab hours, are all available from the <a href="https://addiboyer24.github.io/441-web-tech-Spring2023-course/instructors/">Instructors</a> tab above in the course menubar.</p>
 <p>What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team and will be working together to provide this experience to you.</p>
 <!-- <p><a href="//youtu.be/Ixpety11xEA" data-lity>Instructor Video</a></p> -->
 </div>
@@ -28,7 +28,7 @@ jotted: false
 </div>
 
 <div id="Bio" class="tabcontent" markdown="1">
-<p>Addison Boyer currently works as a Solutions Architect at Consumer Direct Care Network, a home health care and technology company with headquarters here in Missoula, MT.</p>'
+<p>Addison Boyer currently works as a Solutions Architect at Consumer Direct Care Network, a home health care and technology company with headquarters here in Missoula, MT.</p>
 <p>Addison graduated from the University of Montana with an M.S. in Computer Science, and a focus in education.</p>
 <p>Addison is passionate about teaching and mentoring students in front-end web design, and enjoys mountain biking in the beautiful state of Montana.</p>
 <p>Addison is an avid "foodie", and enjoys eating the local cuisine here in Missoula.  Born and raised in Missoula, Addison is truly a naitive Montanan, and enjoys spending time in the great outdoors.</p>
